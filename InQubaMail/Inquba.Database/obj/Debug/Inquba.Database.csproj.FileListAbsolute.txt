@@ -1,0 +1,9 @@
+C:\IncubaWorkspace\AlphaIncuba\InQubaMail\Inquba.Database\bin\Debug\Inquba.Database.dll.config
+C:\IncubaWorkspace\AlphaIncuba\InQubaMail\Inquba.Database\bin\Debug\Inquba.Database.dll
+C:\IncubaWorkspace\AlphaIncuba\InQubaMail\Inquba.Database\bin\Debug\Inquba.Database.pdb
+C:\IncubaWorkspace\AlphaIncuba\InQubaMail\Inquba.Database\bin\Debug\EntityFramework.dll
+C:\IncubaWorkspace\AlphaIncuba\InQubaMail\Inquba.Database\bin\Debug\EntityFramework.SqlServer.dll
+C:\IncubaWorkspace\AlphaIncuba\InQubaMail\Inquba.Database\bin\Debug\EntityFramework.xml
+C:\IncubaWorkspace\AlphaIncuba\InQubaMail\Inquba.Database\bin\Debug\EntityFramework.SqlServer.xml
+C:\IncubaWorkspace\AlphaIncuba\InQubaMail\Inquba.Database\obj\Debug\Inquba.Database.dll
+C:\IncubaWorkspace\AlphaIncuba\InQubaMail\Inquba.Database\obj\Debug\Inquba.Database.pdb
