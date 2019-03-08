@@ -7,3 +7,15 @@ C:\IncubaWorkspace\AlphaIncuba\InQubaMail\Inquba.Database\bin\Debug\EntityFramew
 C:\IncubaWorkspace\AlphaIncuba\InQubaMail\Inquba.Database\bin\Debug\EntityFramework.SqlServer.xml
 C:\IncubaWorkspace\AlphaIncuba\InQubaMail\Inquba.Database\obj\Debug\Inquba.Database.dll
 C:\IncubaWorkspace\AlphaIncuba\InQubaMail\Inquba.Database\obj\Debug\Inquba.Database.pdb
+C:\Users\Nika\Desktop\TEST CODE\GitRepo\Incuba\InQubaMail\Inquba.Database\bin\Debug\Inquba.Database.dll.config
+C:\Users\Nika\Desktop\TEST CODE\GitRepo\Incuba\InQubaMail\Inquba.Database\bin\Debug\Inquba.Database.dll
+C:\Users\Nika\Desktop\TEST CODE\GitRepo\Incuba\InQubaMail\Inquba.Database\bin\Debug\Inquba.Database.pdb
+C:\Users\Nika\Desktop\TEST CODE\GitRepo\Incuba\InQubaMail\Inquba.Database\bin\Debug\EntityFramework.dll
+C:\Users\Nika\Desktop\TEST CODE\GitRepo\Incuba\InQubaMail\Inquba.Database\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nika\Desktop\TEST CODE\GitRepo\Incuba\InQubaMail\Inquba.Database\bin\Debug\EntityFramework.xml
+C:\Users\Nika\Desktop\TEST CODE\GitRepo\Incuba\InQubaMail\Inquba.Database\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nika\Desktop\TEST CODE\GitRepo\Incuba\InQubaMail\Inquba.Database\obj\Debug\Inquba.Database.csprojResolveAssemblyReference.cache
+C:\Users\Nika\Desktop\TEST CODE\GitRepo\Incuba\InQubaMail\Inquba.Database\obj\Debug\Inquba.Database.dll
+C:\Users\Nika\Desktop\TEST CODE\GitRepo\Incuba\InQubaMail\Inquba.Database\obj\Debug\Inquba.Database.pdb
+C:\Users\Nika\Desktop\TEST CODE\GitRepo\Incuba\InQubaMail\Inquba.Database\obj\Debug\Inquba.Database.Migrations.Initial.resources
+C:\Users\Nika\Desktop\TEST CODE\GitRepo\Incuba\InQubaMail\Inquba.Database\obj\Debug\Inquba.Database.csproj.GenerateResource.Cache

@@ -23,6 +23,9 @@ namespace Inquba.Databases.Models
         [Required]
         public string Body { get; set; }
         public bool ReadStatus { get; set; }
+        public virtual Location location { get; set; }
+        [Required]
+        public int locationId { get; set; }
 
 
 

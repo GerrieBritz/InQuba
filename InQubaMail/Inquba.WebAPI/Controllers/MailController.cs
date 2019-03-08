@@ -7,27 +7,23 @@ using System.Web.Http;
 using System.Web.Mvc;
 using Inquba.Databases;
 using Inquba.Databases.Models;
+using System.Text;
 
 namespace Inquba.WebAPI.Controllers
 {
+    //Suppose this was intended for Microservices
     public class MailController : ApiController
     {
         // GET: api/Mail
         public JsonResult Get()
         {
             EmailContext context = new EmailContext();
-            Email mail = new Email();
+            return new JsonResult()
+            {
+                Data = context.Emails,
+                JsonRequestBehavior = JsonRequestBehavior.AllowGet
+            };
 
-            context.Emails.Add(mail);
-            context.SaveChanges();
-
-            return new JsonResult();
-        }
-
-        // GET: api/Mail/5
-        public string Get(int id)
-        {
-            return "value";
         }
 
         // POST: api/Mail
@@ -44,5 +40,7 @@ namespace Inquba.WebAPI.Controllers
         public void Delete(int id)
         {
         }
+       
     }
+   
 }

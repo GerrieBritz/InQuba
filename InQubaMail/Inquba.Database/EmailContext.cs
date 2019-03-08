@@ -75,5 +75,18 @@ namespace Inquba.Databases
 
         }
 
+        public class DataBaseInitializer : DropCreateDatabaseIfModelChanges<EmailContext>
+        {
+            protected override void Seed(EmailContext db)
+            {
+                var defaultlocation = new Location() { LocationName = "Inbox" ,CreatedBy = Environment.UserName,CreatedDate = DateTime.Now, Status = false,UpdatedBy = Environment.UserName, UpDatedDate = DateTime.Now};
+                db.Locations.Add(defaultlocation);
+                db.Locations.Add(new Location() { LocationName = "Outbox" });
+                db.Locations.Add(new Location() { LocationName = "Sent" });
+                db.Locations.Add(new Location() { LocationName = "Draft" });
+
+                base.Seed(db);
+            }
+        }
     }
 }
